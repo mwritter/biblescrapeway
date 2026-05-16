@@ -1,0 +1,2 @@
+# Built binary (default output name from go build -o scraper)
+/scraper
