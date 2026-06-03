@@ -1,4 +1,4 @@
-module scraper
+module github.com/mwritter/biblescrapeway
 
 go 1.24.2
 

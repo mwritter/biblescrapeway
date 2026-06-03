@@ -7,7 +7,7 @@ import (
 	"log"
 	"os"
 
-	"scraper/internal/scraper"
+	"github.com/mwritter/biblescrapeway/internal/scraper"
 )
 
 func main() {
